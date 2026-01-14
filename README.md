@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @BHOOPRAKASH
-- Student , pursuing Diploma in Computer Science & Engg. 
-- 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning Python.
-- I have basic knowledge of HTML, CSS, JS, C, C#, PHP, etc.
- 📫 How to reach me : @bhooprakashkashyap837@gmail.com 
+Hi 👋 I'm Bhooprakash
+
+I’m a Computer Science diploma graduate (2024) currently building
+strong skills in Data Analytics using Python, SQL, Excel, and Power BI.
+
 
 
 
